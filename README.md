@@ -1,4 +1,4 @@
-Data Visualization projects
+ Data Visualization projects
 
 1] Hardware dataviz python
 
